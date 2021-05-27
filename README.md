@@ -1,4 +1,4 @@
-<img src="game/iconGame.png"/>
+<img src="game/iconGame.png"  width="100px" height="100px"/>
 # Flapy Bird Clone
 
 # ℹ Sobre

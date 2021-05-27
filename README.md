@@ -1,8 +1,8 @@
 <img src="game/iconGame.png"  width="100px" height="100px"/>
-# Flapy Bird Clone
 
+# Flapy Bird Clone
 # ℹ Sobre
-### *Game Criado na game engine Unity 3D*
+## *Game Criado na game engine Unity 3D*
 
 ### Game
 <img src="game/flapyBird.gif">

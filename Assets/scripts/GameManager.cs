@@ -78,7 +78,7 @@ public class GameManager : MonoBehaviour
     {
         if (isPlaying)
         {
-            SoundManager.inst.PlayAudio(4);
+            
             if (paused)
             {
                 Time.timeScale = 1;
